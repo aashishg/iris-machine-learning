@@ -1,0 +1,7 @@
+In order to run the code you need to
+1. install python 3.x
+2. install pip(if it doesn't come with python installation)
+3. install scipy, numpy, sklearn, pandas and matplotlib 
+using pip for eg. `pip install <desired package name>` in terminal
+4. run `python check.py` to check for packages
+5. run `python iris.py` to run it
